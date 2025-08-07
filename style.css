@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-image: url(/assets/Header\ Background.svg);
+    background-image: url(assets/header-background.svg);
     background-position: center;
 }
 
